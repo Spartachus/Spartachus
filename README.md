@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spartachus and I'm 17 years old.
+- 👋 Hi, I’m @Spartachus and I'm 18 years old.
 - 👀 I’m interested in Computers and creating stuff.
 - 🌱 I’m currently learning Web development and python but studying Electricals in technical school
 - 📫 You can check my repos to see what i have built and am building
