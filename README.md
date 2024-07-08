@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spartachus and I'm 19 years old.
 - 👀 I’m interested in Computers and creating stuff.
-- 🌱 I’m currently working on my startup called Verdei
+- 🌱 I’m currently building my startup called Verdeia
 - 📫 You can check my repos to see what i have built and i'm building
 
 <!---
